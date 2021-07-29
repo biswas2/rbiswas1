@@ -28,7 +28,7 @@ social:
   link: https://twitter.com/_raselbiswas
 - icon: facebook
   icon_pack: fab
-  link: https://facebook.com/biswas15
+  link: https://facebook.com/raselbiswas17
 - icon: researchgate
   icon_pack: fab
   link: https://researchgate.net/profile/Rasel-Biswas
