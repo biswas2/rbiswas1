@@ -18,7 +18,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "graduate"  
+  description = ""  
 
 [[feature]]
   icon = "r-project"
@@ -36,7 +36,7 @@ subtitle = ""
   icon = "font"
   icon_pack = "fas"
   name = "LaTeX"
-  description = "fairly good" 
+  description = "" 
   
 #[[feature]]
 #  icon = "RStudio_logo_flat"
